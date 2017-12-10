@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785784600338",
+    "firebase_url": "https://studentzone-f96b3.firebaseio.com",
+    "project_id": "studentzone-f96b3",
+    "storage_bucket": "studentzone-f96b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785784600338:android:fc2339dbf48c6984",
+        "android_client_info": {
+          "package_name": "com.project.internship.studentzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785784600338-4lobdek2ua4nj626is3h7dq4bgtjcu2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGUGVf4k_esid2da1DfBUdpXL3tUN5bRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
